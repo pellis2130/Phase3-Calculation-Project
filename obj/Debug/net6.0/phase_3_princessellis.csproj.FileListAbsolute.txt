@@ -1,0 +1,14 @@
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\bin\Debug\net6.0\phase_3_princessellis.exe
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\bin\Debug\net6.0\phase_3_princessellis.deps.json
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\bin\Debug\net6.0\phase_3_princessellis.runtimeconfig.json
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\bin\Debug\net6.0\phase_3_princessellis.dll
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\bin\Debug\net6.0\phase_3_princessellis.pdb
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\phase_3_princessellis.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\phase_3_princessellis.AssemblyInfoInputs.cache
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\phase_3_princessellis.AssemblyInfo.cs
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\phase_3_princessellis.csproj.CoreCompileInputs.cache
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\phase_3_princessellis.dll
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\refint\phase_3_princessellis.dll
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\phase_3_princessellis.pdb
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\phase_3_princessellis.genruntimeconfig.cache
+D:\C# projects\3.2 Project Phase 3\phase_3_princessellis\obj\Debug\net6.0\ref\phase_3_princessellis.dll
